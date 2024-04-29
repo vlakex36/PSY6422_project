@@ -24,6 +24,7 @@ The research question for this project is “Are Democrats better than Republica
   + containing "mycss.css", css file used to customise/style the markdown document
 + markdown230170494.rmd - RMarkdown file (code)
 + markdown230170494.html - A web page of the markdown file
++ assignment.Rproj - The R project (working directory).
 
 ## Installation Instructions
 To run this project, you will need the following **software and packages**:
