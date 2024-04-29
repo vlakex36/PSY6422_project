@@ -15,7 +15,7 @@ The research question for this project is “Are Democrats better than Republica
 
 **This repository contains:**
 + figures
-  + containing "main_plot.png", the final plot produced
+  + containing "main_plot.png", the final plot produced and the original figure.
 + raw_data
   + containing "raw_data.csv", raw data used for the analysis and processing
 + processed_data
