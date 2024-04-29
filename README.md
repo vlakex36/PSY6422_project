@@ -106,10 +106,7 @@ Here’s a step-by-step guide to execute the code:
 
 ## Visualisation
 
-add in the end using link:
-
--copy img address after uploaded
-![name-of-you-image](https://your-copied-image-address)
+![Main plot](https://github.com/vlakex36/PSY6422_project/blob/main/figures/main_plot.png?raw=true)
 
 
 
