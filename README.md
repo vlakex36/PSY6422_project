@@ -24,7 +24,8 @@ The research question for this project is “Are Democrats better than Republica
   + containing "mycss.css", css file used to customise/style the markdown document
 + markdown230170494.rmd - RMarkdown file (code)
 + markdown230170494.html - A web page of the markdown file
-+ assignment.Rproj - The R project (working directory).
++ assignment.Rproj - The R project (working directory)
++ shiny_app.r - A shiny R file (solely including code necessary for data visualisation)
 
 ## Installation Instructions
 To run this project, you will need the following **software and packages**:
@@ -101,8 +102,6 @@ Here’s a step-by-step guide to execute the code:
 10. Save the plot
     + Save the plot in your desired folder ("figures" in this case), using the code found in the "Saving plot" subsection of the markdown file.
     +  Run the first four lines of code to set the desired directory and ensure that the folder is created before saving the plot. Run the last line of code (ggsave() function) in order to save the figure. You can change the size of the plot by changing the units, width and height in the code.
-
-
 
 ## Visualisation
 
