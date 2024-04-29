@@ -5,7 +5,7 @@ Data Analysis and Visualisation project.
 
 The purpose of this project is to replicate Figure 1b from a study conducted by [Dobbs et al. (2023)](https://www.nature.com/articles/s44271-023-00040-x), which investigated the association between political partisanship and the ability to accurately judge true and false news statements. Using the raw data provided by Dobbs and my own processing techniques, the aim is to recreate the exact figure as presented in their paper. By replicating their findings, I seek to assess the reproducibility and validity of the original results within my own dataset.
 
-Full project is viewable at https://github.com/vlakex36/PSY6422_project/. 
+Full project is viewable at https://vlakex36.github.io/PSY6422_project/. 
 
 **Reference:** Dobbs, M., DeGutis, J., Morales, J., Joseph, K., & Swire-Thompson, B. (2023). Democrats are better than Republicans at discerning true and false news but do not have better metacognitive awareness. Communications Psychology, 1(1), 46.
 
