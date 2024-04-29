@@ -1,0 +1,73 @@
+/* mycss.css */
+
+/* This css file is used to style the markdown document for the PSY6422 data analysis and visualisation project. */
+
+/*Body text and background*/
+body {
+  font-size: 18px;
+  line-height: 1.6;
+  background-color: rgba(51, 122, 183, 0.05);
+}
+
+/*Headings color*/
+h1 {
+  color: #24576f; 
+}
+
+/*Subheadings color*/
+h2 {
+  color: #24576f;
+}
+
+/*Bold text color*/
+strong, b {
+    color: #24576f;
+}
+
+/*Links*/
+a {
+  color: #337ab7;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #2c6699;
+  background-color: rgba(51, 122, 183, 0.2);
+  text-decoration: underline;
+}
+
+/*Table overall style*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+}
+
+/*Table headers*/
+th {
+  background-color: #337ab7;
+  color: white;
+  text-align: left;
+  padding: 8px;
+}
+
+/*Table cells*/
+td {
+  background-color: rgba(51, 122, 183, 0.1);
+  padding: 8px;
+  text-align: left;
+}
+
+/*Code blocks*/
+pre {
+  /*!important was used to override the selected theme of the markdown document*/
+  background-color: rgba(51, 122, 183, 0.1) !important;
+  border: 1px solid #ccc !important;
+}
+
+/*Code within blocks*/
+code {
+  color: #000 !important;
+  font-size: 15px !important;
+}
